@@ -121,7 +121,6 @@
                 <p><b>Tanggal Keluar:</b> $tglKeluar</p>
                 <p><b>Durasi:</b> $durasi</p>
                 <p><b>Total Harga:</b> Rp " . number_format($total, 0, ',', '.'). "</p></div>";
-        
     }
     ?>   
 </body>
