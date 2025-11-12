@@ -58,6 +58,9 @@
 </head>
 <body>
     <h2>Perhitungan Jasa Laundry</h2>
+    <p><strong>Nama: Siti Romlah</strong></p>
+    <p><strong>NIM: 202404027</strong></p>
+    
     <form method="post">
         <label>Nama Pelanggan: </label><input type="text" name="nama"><br><br>
         Pilihan Paket Laundry: <select name="paket">
