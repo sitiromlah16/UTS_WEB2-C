@@ -103,7 +103,7 @@
         switch ($durasi) {
             case "Regular": $tambah = 0; $hari = 2; break;
             case "Kilat": $tambah = 0.25; $hari = 1; break;
-            case "8 jam": $tambah = 0.5;  $hari = 0; break;//dianggap 8 jam = 0 hari
+            case "8 jam": $tambah = 0.5;  $hari = 0; break; //dianggap 8 jam = 0 hari
             default: $tambah = 0; $hari = 2;
         } 
         
